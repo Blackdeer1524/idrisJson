@@ -1,0 +1,10 @@
+[custom.all.json]
+type = "local"
+path = "."
+ipkg = "json.ipkg"
+test = "test/test.ipkg"
+
+[custom.all.json-test]
+type = "local"
+path = "test"
+ipkg = "test.ipkg"
